@@ -21,7 +21,7 @@ with this program; if not, write to the Free Software Foundation, Inc.,
 ]]
 
 -- pass token as command line argument or insert it into code
-local token = arg[1] or ""
+local token = arg[1] or "193920173:AAEmGhI_1Gi1QfbF3uJMV1rFMbVRaqDT3p8"
 
 -- create and configure new bot with set token
 local bot, extension = require("lua-bot-api").configure(token)
